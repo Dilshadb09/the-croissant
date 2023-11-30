@@ -7,3 +7,9 @@ h1 {
 p {
   color: #975f47;
 }
+a {
+  color: hwb(19 10% 77%);
+}
+a:hover {
+  color: #695249;
+}
